@@ -1,0 +1,5 @@
+1.解决vue-cli没有dev-server方法：https://blog.csdn.net/peng_9/article/details/78764911
+2.手机1像素缩放：通过伪类和缩放
+3.两个inline-block中如果有空隙，则可以设置父元素font-size:0,然后再分别设置子元素font-size
+4.sticky footers布局：页面内容不够长时，页脚块粘贴在视窗底部，内容太长时，页脚块会被内容向下推送
+5.应用了better-scroll依赖，先在package.json中添加
